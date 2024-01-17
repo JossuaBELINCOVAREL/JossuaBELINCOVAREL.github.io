@@ -1,6 +1,5 @@
 .navbar {
     margin-bottom: 1%;
-    border-radius: 10px;
 }
 
 #text-container {
@@ -90,7 +89,6 @@ p.card-text {
 }
 
 div.container-row {
-    border-radius: 10px;
     text-align: center;
     color: white;
     margin-top: 1%;
@@ -124,7 +122,7 @@ div.container-row {
 
 
 .footer-basic {
-    padding:40px 0;
+    padding:30px 0;
     background-color:#212529;
     color:#ffffff;
   }
@@ -203,6 +201,7 @@ h2 {
 div.card {
   padding: 15px;
   margin-bottom: 1%;
+  border-radius: 0%;
 } 
 
 .contact-image{
